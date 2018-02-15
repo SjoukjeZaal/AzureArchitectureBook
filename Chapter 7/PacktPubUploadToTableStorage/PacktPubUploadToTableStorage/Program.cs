@@ -20,11 +20,11 @@ namespace PacktPubUploadToTableStorage
             // Create the table if it doesn't exist.
             table.CreateIfNotExists();
 
-            // Create a new customer entity.
+            // Create a new contact entity.
             Contact contact1 = new Contact("Zaal", "Sjoukje");
             contact1.Email = "sjoukje@packtpub.com";
 
-            // Create the TableOperation object that inserts the customer entity.
+            // Create the TableOperation object that inserts the contact.
             TableOperation insertOperation = TableOperation.Insert(contact1);
 
             // Execute the insert operation.
