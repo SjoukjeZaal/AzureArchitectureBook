@@ -1,0 +1,7 @@
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\bin\Debug\PacktCustomerVisionAPI.exe.config
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\bin\Debug\PacktCustomerVisionAPI.exe
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\bin\Debug\PacktCustomerVisionAPI.pdb
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\obj\Debug\PacktCustomerVisionAPI.csprojResolveAssemblyReference.cache
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\obj\Debug\PacktCustomerVisionAPI.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\obj\Debug\PacktCustomerVisionAPI.exe
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktCustomerVisionAPI\PacktCustomerVisionAPI\obj\Debug\PacktCustomerVisionAPI.pdb
